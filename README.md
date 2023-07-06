@@ -1,4 +1,2 @@
 # II
-Repositorio de Informática Industrial de la FPIGS ARI de Miguel Ramón Urrutia (Profesor).
-
-Esto es una modificación para explicar cómo crear un commit.
+Repositorio del profesor Miguel Ramón Urrutia de la asignatura Informática Industrial de la Formación Profesional Inicial de Grado Superior Automatización y Robótica Industrial.
